@@ -1,4 +1,4 @@
-# Security-Cameras-Object-Detection
+# Security-System
 ## Overview
 The Security Cameras Object Detection Project aims to notify the building owner when specific objects (to be determined by the owner) enter a defined restricted area, which is customizable by the owner. This system utilizes multiple cameras to monitor various areas and sends real-time notifications to the owner via email when a restricted object is detected within a specific area.
 
